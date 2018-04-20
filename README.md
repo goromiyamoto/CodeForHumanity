@@ -1,2 +1,2 @@
-# CodeForHumanity
-This will be a lot of random codes, and projects I do as hobby. They can be just a magic trick, or anything. Probally just to learn how to code.
+# CodeForHumanity - Java Files
+This will be the branch for Java Files I make.
