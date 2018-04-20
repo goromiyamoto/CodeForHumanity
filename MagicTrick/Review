@@ -1,0 +1,7 @@
+# Java Code
+This code has about 200 lines of code. Some variables defined in the beginning (c1n1, c1n2, etc). Which I'll remove someday.
+It does the 21 cards Magic trick, which is purely math-based.
+It shuffles 2 times the cards, as the first one is the same (lazy to do it with random values), based in a 1-2-3 shuffle.
+1-2-3 shuffle, in this Magic Trick, is getting any of the non-selected lines, put the selected one in the middle, and the other that wasn't
+picked up last (the first and third one doesn't matter, only the chosen one NEEDS to be in the middle).
+It does this 2 times, then I've selected the 4th letter in the last selected line.
